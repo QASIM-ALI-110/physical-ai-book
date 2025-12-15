@@ -1,1 +1,1 @@
-# physical-ai-and-humanoid-robotics-02
+# physical-ai-book
