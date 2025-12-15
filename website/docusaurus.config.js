@@ -13,7 +13,7 @@ const config = {
   baseUrl: '/physical-ai-book/',
 
   // GitHub pages deployment config.
-  organizationName: 'YOUR_GITHUB_USER', // Usually your GitHub org/user name.
+  organizationName: 'QASIM-ALI-110', // Usually your GitHub org/user name.
   projectName: 'physical-ai-book', // Usually your repo name.
 
   onBrokenLinks: 'throw',
